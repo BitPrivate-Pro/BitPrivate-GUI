@@ -67,7 +67,7 @@ std::istream& operator>>(std::istream& str, Version::VersionDigit& digit)
     {
         connect(manager, SIGNAL(finished(QNetworkReply*)),
                 this, SLOT(replyFinished(QNetworkReply*)));
-        manager->get(QNetworkRequest(QUrl(BZKCOIN_UPDATE_URL)));
+        manager->get(QNetworkRequest(QUrl(BPVTCOIN_UPDATE_URL)));
     }
 }*/
 
@@ -89,7 +89,7 @@ void Updater::replyFinished (QNetworkReply *reply)
          if (ourVersion < remoteVersion) {
 
              if (QMessageBox::warning(nullptr, QObject::tr("New version available"), QObject::tr("There is update available.\nDo you want to go to download page?"), QMessageBox::Ok, QMessageBox::Cancel) == QMessageBox::Ok) {
-                 QString link = "https://www.brazukcoin.org/downloads";
+                 QString link = "https://www.bitprivate.org/downloads";
                  QDesktopServices::openUrl(QUrl(link));
              }
 
