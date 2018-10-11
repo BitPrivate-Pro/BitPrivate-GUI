@@ -180,16 +180,16 @@ void SendFrame::openUriClicked() {
 }
 
 void SendFrame::parsePaymentRequest(QString _request) {
-    if(_request.startsWith("brazukcoin://", Qt::CaseInsensitive))
+    if(_request.startsWith("bitprivate://", Qt::CaseInsensitive))
     {
-       _request.replace(0, 13, "brazukcoin:");
+       _request.replace(0, 13, "bitprivate:");
     }
-    if(!_request.startsWith("brazukcoin:", Qt::CaseInsensitive)) {
-      QCoreApplication::postEvent(&MainWindow::instance(), new ShowMessageEvent(tr("Payment request should start with brazukcoin:"), QtCriticalMsg));
+    if(!_request.startsWith("bitprivate:", Qt::CaseInsensitive)) {
+      QCoreApplication::postEvent(&MainWindow::instance(), new ShowMessageEvent(tr("Payment request should start with bitprivate:"), QtCriticalMsg));
       return;
     }
 
-    if(_request.startsWith("brazukcoin:", Qt::CaseInsensitive))
+    if(_request.startsWith("bitprivate:", Qt::CaseInsensitive))
     {
       _request.remove(0, 11);
     }
@@ -259,7 +259,7 @@ void SendFrame::sendClicked() {
       // Dev donation
       if (m_ui->donateCheckBox->isChecked()) {
           CryptoNote::WalletLegacyTransfer walletTransfer;
-          walletTransfer.address = "BZK1L4aAh5i7cbB813RQpsKP6pHXT2ymrbQCwQnQ3DC4QiyuhBUZw8dhAaFp8wH1Do6J9Lmim6ePv1SYFYs97yNV2xvSbTGc7s";
+          walletTransfer.address = "";
           walletTransfer.amount = CurrencyAdapter::instance().parseAmount(m_ui->m_donateSpin->cleanText());
           walletTransfers.push_back(walletTransfer);
       }
