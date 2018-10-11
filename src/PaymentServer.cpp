@@ -1,6 +1,6 @@
 // Copyright (c) 2009-2012 The Bitcoin developers
 // Copyright (c) 2016 The Karbowanec developers
-// Copyright (c) 2018 The Brazukcoin developers
+// Copyright (c) 2018 The Bitprivate developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -24,11 +24,11 @@ using namespace boost;
 using namespace WalletGui;
 
 const int BITCOIN_IPC_CONNECT_TIMEOUT = 1000; // milliseconds
-const QString BITCOIN_IPC_PREFIX("brazukcoin:");
+const QString BITCOIN_IPC_PREFIX("bitprivate:");
 
 static QString ipcServerName()
 {
-    QString name("Brazukcoin");
+    QString name("Bitprivate");
 
     return name;
 }
@@ -94,14 +94,14 @@ PaymentServer::PaymentServer(QApplication* parent) : QObject(parent), saveURIs(t
     uriServer = new QLocalServer(this);
 
     if (!uriServer->listen(name))
-        qDebug() << tr("Cannot start brazukcoin: click-to-pay handler");
+        qDebug() << tr("Cannot start bitprivate: click-to-pay handler");
     else
         connect(uriServer, SIGNAL(newConnection()), this, SLOT(handleURIConnection()));
 }
 
 bool PaymentServer::eventFilter(QObject *object, QEvent *event)
 {
-    // clicking on brazukcoin: URLs creates FileOpen events on the Mac:
+    // clicking on bitprivate: URLs creates FileOpen events on the Mac:
     if (event->type() == QEvent::FileOpen)
     {
         QFileOpenEvent* fileEvent = static_cast<QFileOpenEvent*>(event);
