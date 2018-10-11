@@ -1,0 +1,9 @@
+
+Changelog:
+
+V.1.5.2
+
+- Fix LWMA implementation bug
+- Fix IGD port mapping error
+- The news of my death has been greatly exaggerated!
+- 12 new languages translated (5 of them completed, the rest in progress).
