@@ -70,8 +70,8 @@
     </message>
     <message>
         <location filename="../gui/ui/accountframe.ui" line="289"/>
-        <source> bzk</source>
-        <translation> bzk</translation>
+        <source> BPVT</source>
+        <translation> BPVT</translation>
     </message>
 </context>
 <context>
@@ -266,13 +266,14 @@
     <name>ConfirmSendDialog</name>
     <message>
         <location filename="../gui/ui/confirmsenddialog.ui" line="17"/>
-        <source>Confirm sending %1 BZK</source>
-        <translation>Potvrdit odeslání %1 BZK</translation>
+        <source>Confirm sending %1 BPVT</source>
+        <translation>Potvrdit odeslání %1 BPVT</translation>
     </message>
+    
     <message>
         <location filename="../gui/ui/confirmsenddialog.ui" line="25"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 BZK&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Opravdu chcete odeslat &lt;strong&gt;%1 BZK&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 BPVT&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Opravdu chcete odeslat &lt;strong&gt;%1 BPVT&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/ui/confirmsenddialog.ui" line="75"/>
@@ -354,8 +355,8 @@
     </message>
     <message>
         <location filename="../gui/ui/connectionsettingsdialog.ui" line="251"/>
-        <source>&lt;span style=&quot;color:#080808&quot;&gt;Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BZK.&lt;/span&gt;</source>
-        <translation type="unfinished">&lt;span style=&quot;color:#080808&quot;&gt;Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BZK.&lt;/span&gt;</translation>
+        <source>&lt;span style=&quot;color:#080808&quot;&gt;Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BPVT.&lt;/span&gt;</source>
+        <translation type="unfinished">&lt;span style=&quot;color:#080808&quot;&gt;Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BPVT.&lt;/span&gt;</translation>
     </message>
 </context>
 <context>
@@ -1636,8 +1637,8 @@ Please wait...</translation>
     <name>WalletGui::ConfirmSendDialog</name>
     <message>
         <location filename="../gui/ConfirmSendDialog.cpp" line="21"/>
-        <source>Confirm sending %1 BZK</source>
-        <translation type="unfinished">Confirm sending %1 BZK</translation>
+        <source>Confirm sending %1 BPVT</source>
+        <translation type="unfinished">Confirm sending %1 BPVT</translation>
     </message>
     <message>
         <location filename="../gui/ConfirmSendDialog.cpp" line="26"/>
