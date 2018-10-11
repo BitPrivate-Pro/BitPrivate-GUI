@@ -1,7 +1,7 @@
 // Copyright (c) 2011-2015 The Cryptonote developers
 // Copyright (c) 2015-2016 XDN developers
 // Copyright (c) 2016 The Karbowanec developers
-// Copyright (c) 2018 The Brazukcoin developers
+// Copyright (c) 2018 The bitprivate developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -91,11 +91,8 @@ void Settings::load() {
 
   QStringList defaultPoolList;
   defaultPoolList
-      << "pool.brazukcoin.org:3333"
-      << "us.eat-sleep-mine.com:1133"
-      << "bzk.dreampool.info:3710"
-      << "pool.bzk.getpool.org:13333"
-      << "bzk.fastpool.online:2333";
+      << ":"
+     
   if (!m_settings.contains(OPTION_MINING_POOLS)) {
     setMiningPoolList(QStringList() << defaultPoolList);
   } else {
