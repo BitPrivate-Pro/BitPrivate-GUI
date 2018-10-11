@@ -10,9 +10,9 @@
     </message>
     <message>
         <location filename="../gui/ui/aboutdialog.ui" line="101"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brazukcoin v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2018. The BrazukCoin Developers&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.brazukcoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.brazukcoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;B v. %1&Bitprivate;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2018. The bitprivate Developers&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bitprivate.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.bitprivate.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;卜腊祖币 v. %1&lt;/p&gt;&lt;p&gt;基于 CryptoNote 的下一代匿名数字货币。&lt;/p&gt;&lt;p&gt;版权所有(c) 2018. 卜腊祖币开发者
- &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.brazukcoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.brazukcoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;该软件是&quot;按原样&quot;提供的，没有任何形式的明示或暗示，包括但不限于为特定目的和 不侵权的适销性和适用性的保证担保。在任何情况下，作者或版权持有人，都无权要求 任何索赔，或有关损害赔偿的其他责任。无论在本软件的使用上或其他买卖交易中， 是否涉及合同，侵权或其他行为。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+ &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bitprivate.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.bitprivate.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;该软件是&quot;按原样&quot;提供的，没有任何形式的明示或暗示，包括但不限于为特定目的和 不侵权的适销性和适用性的保证担保。在任何情况下，作者或版权持有人，都无权要求 任何索赔，或有关损害赔偿的其他责任。无论在本软件的使用上或其他买卖交易中， 是否涉及合同，侵权或其他行为。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/ui/aboutdialog.ui" line="137"/>
@@ -71,8 +71,8 @@
     </message>
     <message>
         <location filename="../gui/ui/accountframe.ui" line="289"/>
-        <source> bzk</source>
-        <translation> bzk</translation>
+        <source> BPVT</source>
+        <translation> BPVT</translation>
     </message>
 </context>
 <context>
@@ -267,13 +267,13 @@
     <name>ConfirmSendDialog</name>
     <message>
         <location filename="../gui/ui/confirmsenddialog.ui" line="17"/>
-        <source>Confirm sending %1 BZK</source>
-        <translation>确认发送 %1 BZK</translation>
+        <source>Confirm sending %1 BPVT</source>
+        <translation>确认发送 %1 BPVT</translation>
     </message>
     <message>
         <location filename="../gui/ui/confirmsenddialog.ui" line="25"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 BZK&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您是否确定发送 &lt;strong&gt;%1 BZK &lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 BPVT&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您是否确定发送 &lt;strong&gt;%1 BPVT &lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/ui/confirmsenddialog.ui" line="75"/>
@@ -355,8 +355,8 @@
     </message>
     <message>
         <location filename="../gui/ui/connectionsettingsdialog.ui" line="251"/>
-        <source>&lt;span style=&quot;color:#080808&quot;&gt;Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BZK.&lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:#080808&quot;&gt;钱包将连接至运行在本地或全球网络中的远程节点。请选择节点或指定 IP 地址或域名及端口。在此模式下钱包将在每次至节点的交易中发送 0.25% 的费用，但不超过 10 BZK。&lt;/span&gt;</translation>
+        <source>&lt;span style=&quot;color:#080808&quot;&gt;Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BPVT.&lt;/span&gt;</source>
+        <translation>&lt;span style=&quot;color:#080808&quot;&gt;钱包将连接至运行在本地或全球网络中的远程节点。请选择节点或指定 IP 地址或域名及端口。在此模式下钱包将在每次至节点的交易中发送 0.25% 的费用，但不超过 10 BPVT。&lt;/span&gt;</translation>
     </message>
 </context>
 <context>
@@ -1048,7 +1048,7 @@ Please wait...</source>
     <name>PaymentServer</name>
     <message>
         <location filename="../PaymentServer.cpp" line="97"/>
-        <source>Cannot start brazukcoin: click-to-pay handler</source>
+        <source>Cannot start bitprivate: click-to-pay handler</source>
         <translation>无法启动卜腊祖币：点击支付处理程序</translation>
     </message>
 </context>
@@ -1629,7 +1629,7 @@ Please wait...</source>
     </message>
     <message>
         <location filename="../CommandLineParser.cpp" line="31"/>
-        <source>Brazukcoin wallet</source>
+        <source>Bitprivate wallet</source>
         <translation>卜腊祖币钱包</translation>
     </message>
 </context>
@@ -1637,8 +1637,8 @@ Please wait...</source>
     <name>WalletGui::ConfirmSendDialog</name>
     <message>
         <location filename="../gui/ConfirmSendDialog.cpp" line="21"/>
-        <source>Confirm sending %1 BZK</source>
-        <translation>确认发送 %1 BZK</translation>
+        <source>Confirm sending %1 BPVT</source>
+        <translation>确认发送 %1 BPVT</translation>
     </message>
     <message>
         <location filename="../gui/ConfirmSendDialog.cpp" line="26"/>
@@ -1722,7 +1722,7 @@ Please wait...</source>
     <message>
         <location filename="../gui/MainWindow.cpp" line="120"/>
         <location filename="../gui/MainWindow.cpp" line="898"/>
-        <source>Brazukcoin Wallet %1</source>
+        <source>Bitprivate Wallet %1</source>
         <translation>卜腊祖币钱包 %1</translation>
     </message>
     <message>
@@ -1852,9 +1852,10 @@ Please wait...</source>
         <translation>语言将在重启钱包后更改。</translation>
     </message>
     <message>
+        
         <location filename="../gui/MainWindow.cpp" line="560"/>
-        <source>More info can be found at https://www.brazukcoin.org in Documentation section</source>
-        <translation>详情请见 https://www.brazukcoin.org 的文档区</translation>
+        <source>More info can be found at https://www.bitprivate.org in Documentation section</source>
+        <translation>详情请见 https://www.bitprivate.org 的文档区</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow.cpp" line="586"/>
@@ -2027,7 +2028,7 @@ Are you sure?</source>
     <name>WalletGui::SendFrame</name>
     <message>
         <location filename="../gui/SendFrame.cpp" line="188"/>
-        <source>Payment request should start with brazukcoin:</source>
+        <source>Payment request should start with bitprivate:</source>
         <translation>付款请求所需的卜腊祖币为：</translation>
     </message>
     <message>
