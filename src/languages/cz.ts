@@ -10,8 +10,8 @@
     </message>
     <message>
         <location filename="../gui/ui/aboutdialog.ui" line="101"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brazukcoin v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2018. The BrazukCoin Developers&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.brazukcoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.brazukcoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brazukcoin v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2018. The BrazukCoin Developers&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.brazukcoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.brazukcoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bitprivate v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2018. The bitprivate Developers&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bitprivate.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.bitprivate.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bitprivate v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2018. The bitprivate Developers&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bitprivate.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.bitprivate.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/ui/aboutdialog.ui" line="137"/>
@@ -1047,8 +1047,8 @@ Please wait...</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../PaymentServer.cpp" line="97"/>
-        <source>Cannot start brazukcoin: click-to-pay handler</source>
-        <translation type="unfinished">Cannot start brazukcoin: click-to-pay handler</translation>
+        <source>Cannot start bitprivate: click-to-pay handler</source>
+        <translation type="unfinished">Cannot start bitprivate: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1628,8 +1628,8 @@ Please wait...</translation>
     </message>
     <message>
         <location filename="../CommandLineParser.cpp" line="31"/>
-        <source>Brazukcoin wallet</source>
-        <translation type="unfinished">Brazukcoin wallet</translation>
+        <source>Bitprivate wallet</source>
+        <translation type="unfinished">Bitprivate wallet</translation>
     </message>
 </context>
 <context>
@@ -1721,8 +1721,8 @@ Please wait...</translation>
     <message>
         <location filename="../gui/MainWindow.cpp" line="120"/>
         <location filename="../gui/MainWindow.cpp" line="898"/>
-        <source>Brazukcoin Wallet %1</source>
-        <translation type="unfinished">Brazukcoin Wallet %1</translation>
+        <source>Bitprivate Wallet %1</source>
+        <translation type="unfinished">Bitprivate Wallet %1</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow.cpp" line="136"/>
@@ -1852,8 +1852,8 @@ Please wait...</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow.cpp" line="560"/>
-        <source>More info can be found at https://www.brazukcoin.org in Documentation section</source>
-        <translation type="unfinished">More info can be found at https://www.brazukcoin.org in Documentation section</translation>
+        <source>More info can be found at https://www.bitprivate.org in Documentation section</source>
+        <translation type="unfinished">More info can be found at https://www.bitprivate.org in Documentation section</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow.cpp" line="586"/>
@@ -2028,8 +2028,8 @@ Are you sure?</translation>
     <name>WalletGui::SendFrame</name>
     <message>
         <location filename="../gui/SendFrame.cpp" line="188"/>
-        <source>Payment request should start with brazukcoin:</source>
-        <translation type="unfinished">Payment request should start with brazukcoin:</translation>
+        <source>Payment request should start with bitprivate:</source>
+        <translation type="unfinished">Payment request should start with bitprivate:</translation>
     </message>
     <message>
         <location filename="../gui/SendFrame.cpp" line="202"/>
