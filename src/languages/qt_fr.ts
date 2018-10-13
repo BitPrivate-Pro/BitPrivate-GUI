@@ -10,8 +10,8 @@
     </message>
     <message>
         <location filename="../gui/ui/aboutdialog.ui" line="101"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brazukcoin v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2018. The BrazukCoin Developers&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.brazukcoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.brazukcoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brazukcoin v. %1&lt;/p&gt;&lt;p&gt;, c’est la cryptomonnaie anonyme de nouvelle génération basée sur CryptoNote.&lt;/p&gt;&lt;p&gt;copyright (c) 2018. les développeurs de BrazukCoin&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.brazukcoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.brazukcoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;CE LOGICIEL EST PROPOSE &amp;quot ; EN L&apos;ÉTAT&amp;quot ; SANS AUCUNE GARANTIE IMPLICITE OU EXPLICITE, Y COMPRIS LES GARANTIES DE COMMERCIALISATION OU D&apos;ADAPTATION DANS UN BUT PARTICULIER. LES AUTEURS OU LES DÉTENTEURS DE DROITS D&apos;AUTEUR NE POURRONT EN AUCUN CAS ETRE TENUS RESPONSABLES DES RÉCLAMATIONS, DOMMAGES OU AUTRES RESPONSABILITÉS, EN VERTU D&apos;UN CONTRAT, DÉLIT OU AUTRE, RELATIVEMENT AU LOGICIEL, SON UTILISATION OU AUTRES MANIPULATIONS DU LOGICIEL. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bitprivate v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2018. The Bitprivate Developers&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bitprivate.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.bitprivate.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bitprivate v. %1&lt;/p&gt;&lt;p&gt;, c’est la cryptomonnaie anonyme de nouvelle génération basée sur CryptoNote.&lt;/p&gt;&lt;p&gt;copyright (c) 2018. les développeurs de Bitprivate&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bitprivate.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000000;&quot;&gt;https://www.bitprivate.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;CE LOGICIEL EST PROPOSE &amp;quot ; EN L&apos;ÉTAT&amp;quot ; SANS AUCUNE GARANTIE IMPLICITE OU EXPLICITE, Y COMPRIS LES GARANTIES DE COMMERCIALISATION OU D&apos;ADAPTATION DANS UN BUT PARTICULIER. LES AUTEURS OU LES DÉTENTEURS DE DROITS D&apos;AUTEUR NE POURRONT EN AUCUN CAS ETRE TENUS RESPONSABLES DES RÉCLAMATIONS, DOMMAGES OU AUTRES RESPONSABILITÉS, EN VERTU D&apos;UN CONTRAT, DÉLIT OU AUTRE, RELATIVEMENT AU LOGICIEL, SON UTILISATION OU AUTRES MANIPULATIONS DU LOGICIEL. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/ui/aboutdialog.ui" line="137"/>
@@ -70,8 +70,8 @@
     </message>
     <message>
         <location filename="../gui/ui/accountframe.ui" line="289"/>
-        <source> bzk</source>
-        <translation> bzk</translation>
+        <source> BPVT</source>
+        <translation> BPVT</translation>
     </message>
 </context>
 <context>
@@ -266,13 +266,13 @@
     <name>ConfirmSendDialog</name>
     <message>
         <location filename="../gui/ui/confirmsenddialog.ui" line="17"/>
-        <source>Confirm sending %1 BZK</source>
-        <translation>Confirmer l’envoi de %1 BZK</translation>
+        <source>Confirm sending %1 BPVT</source>
+        <translation>Confirmer l’envoi de %1 BPVT</translation>
     </message>
     <message>
         <location filename="../gui/ui/confirmsenddialog.ui" line="25"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 BZK&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Etes-vous sûr de vouloir envoyer &lt;strong&gt;%1 BZK&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 BPVT&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Etes-vous sûr de vouloir envoyer &lt;strong&gt;%1 BPVT&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/ui/confirmsenddialog.ui" line="75"/>
@@ -354,8 +354,8 @@
     </message>
     <message>
         <location filename="../gui/ui/connectionsettingsdialog.ui" line="251"/>
-        <source>&lt;span style=&quot;color:#080808&quot;&gt;Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BZK.&lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:#080808&quot;&gt;Le porte-monnaie se connectera à un noeud distant actif sur le réseau local ou global. Choisissez un noeud ou spécifiez une adresse IP ou un nom d&apos;hôte ainsi qu&apos;un numéro de port. Dans ce mode, le porte-monnaie envoie au noueud choisi 0,25% du montant de chaque transaction, dans la limite de 10 BZK maximum.&lt;/span&gt;</translation>
+        <source>&lt;span style=&quot;color:#080808&quot;&gt;Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BPVT.&lt;/span&gt;</source>
+        <translation>&lt;span style=&quot;color:#080808&quot;&gt;Le porte-monnaie se connectera à un noeud distant actif sur le réseau local ou global. Choisissez un noeud ou spécifiez une adresse IP ou un nom d&apos;hôte ainsi qu&apos;un numéro de port. Dans ce mode, le porte-monnaie envoie au noueud choisi 0,25% du montant de chaque transaction, dans la limite de 10 BPVT maximum.&lt;/span&gt;</translation>
     </message>
 </context>
 <context>
@@ -1047,8 +1047,8 @@ Veuillez patienter...</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../PaymentServer.cpp" line="97"/>
-        <source>Cannot start brazukcoin: click-to-pay handler</source>
-        <translation>Impossible de démarrer Brazukcoin: gestionnaire clic-to-pay</translation>
+        <source>Cannot start bitprivate: click-to-pay handler</source>
+        <translation>Impossible de démarrer Bitprivate: gestionnaire clic-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1255,7 +1255,7 @@ Veuillez patienter...</translation>
     <message>
         <location filename="../gui/ui/sendframe.ui" line="364"/>
         <source>Wallet is connected through remote node. Additional 0.25% fee will be applied.</source>
-        <translation>Le porte-monnaie est connecté par le biais d&apos;un nœud distant. Une taxe supplémentaire de 0,25 % s’appliquera (dans la limite de 10 BZK max).</translation>
+        <translation>Le porte-monnaie est connecté par le biais d&apos;un nœud distant. Une taxe supplémentaire de 0,25 % s’appliquera (dans la limite de 10 BPVT max).</translation>
     </message>
     <message>
         <location filename="../gui/ui/sendframe.ui" line="367"/>
@@ -1628,16 +1628,16 @@ Veuillez patienter...</translation>
     </message>
     <message>
         <location filename="../CommandLineParser.cpp" line="31"/>
-        <source>Brazukcoin wallet</source>
-        <translation>Porte-monnaie Brazukcoin</translation>
+        <source>Bitprivate wallet</source>
+        <translation>Porte-monnaie Bitprivate</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ConfirmSendDialog</name>
     <message>
         <location filename="../gui/ConfirmSendDialog.cpp" line="21"/>
-        <source>Confirm sending %1 BZK</source>
-        <translation>Confirmer l’envoi de %1 BZK</translation>
+        <source>Confirm sending %1 BPVT</source>
+        <translation>Confirmer l’envoi de %1 BPVT</translation>
     </message>
     <message>
         <location filename="../gui/ConfirmSendDialog.cpp" line="26"/>
@@ -1721,8 +1721,8 @@ Veuillez patienter...</translation>
     <message>
         <location filename="../gui/MainWindow.cpp" line="120"/>
         <location filename="../gui/MainWindow.cpp" line="898"/>
-        <source>Brazukcoin Wallet %1</source>
-        <translation>Porte-monnaie Brazukcoin %1</translation>
+        <source>Bitprivate Wallet %1</source>
+        <translation>Porte-monnaie Bitprivate %1</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow.cpp" line="136"/>
@@ -1852,8 +1852,8 @@ Veuillez patienter...</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow.cpp" line="560"/>
-        <source>More info can be found at https://www.brazukcoin.org in Documentation section</source>
-        <translation>Plus d&apos;informations sur https://www.brazukcoin.org dans la section Documentation</translation>
+        <source>More info can be found at https://www.bitprivate.org in Documentation section</source>
+        <translation>Plus d&apos;informations sur https://www.bitprivate.org dans la section Documentation</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow.cpp" line="586"/>
@@ -2026,8 +2026,8 @@ Are you sure?</source>
     <name>WalletGui::SendFrame</name>
     <message>
         <location filename="../gui/SendFrame.cpp" line="188"/>
-        <source>Payment request should start with brazukcoin:</source>
-        <translation>Une demande de paiement doit commencer par brazukcoin:</translation>
+        <source>Payment request should start with bitprivate:</source>
+        <translation>Une demande de paiement doit commencer par bitprivate:</translation>
     </message>
     <message>
         <location filename="../gui/SendFrame.cpp" line="202"/>
